@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\cpp\\SppConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Backend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Backend.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Backend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Backend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Vector3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Score.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A697905-8B6A-4880-8A58-25E84AEE6C77}|SppConsole\\SppConsole.vcxproj|solutionrelative:SppConsole\\src\\Score.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Main.cpp",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Main.cpp",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Main.cpp",
+              "RelativeToolTip": "SppConsole\\src\\Main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T16:16:00.499Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Backend.h",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Backend.h",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Backend.h",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Backend.h",
+              "RelativeToolTip": "SppConsole\\src\\Backend.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T16:43:26.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engine.h",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Engine.h",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Engine.h",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Engine.h",
+              "RelativeToolTip": "SppConsole\\src\\Engine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T16:51:22.274Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Backend.cpp",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Backend.cpp",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Backend.cpp",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Backend.cpp",
+              "RelativeToolTip": "SppConsole\\src\\Backend.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T17:11:24.88Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Engine.cpp",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Engine.cpp",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Engine.cpp",
+              "RelativeToolTip": "SppConsole\\src\\Engine.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAwJgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T19:07:54.13Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Score.h",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Score.h",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Score.h",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Score.h",
+              "RelativeToolTip": "SppConsole\\src\\Score.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T17:50:52.913Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Score.cpp",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Score.cpp",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Score.cpp",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Score.cpp",
+              "RelativeToolTip": "SppConsole\\src\\Score.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T17:51:17.728Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utils.h",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Utils.h",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Utils.h",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Utils.h",
+              "RelativeToolTip": "SppConsole\\src\\Utils.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-28T04:38:00.201Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Utils.cpp",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Utils.cpp",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Utils.cpp",
+              "RelativeToolTip": "SppConsole\\src\\Utils.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T03:27:50.616Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vector3.h",
+              "DocumentMoniker": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Vector3.h",
+              "RelativeDocumentMoniker": "SppConsole\\src\\Vector3.h",
+              "ToolTip": "D:\\source\\cpp\\SppConsole\\SppConsole\\src\\Vector3.h",
+              "RelativeToolTip": "SppConsole\\src\\Vector3.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-08T19:55:44.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "string",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\string",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-28T08:44:26.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

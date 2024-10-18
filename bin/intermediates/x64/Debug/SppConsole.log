@@ -1,0 +1,15 @@
+﻿  Backend.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\format(42): warning STL4038: The contents of <format> are available only with C++20 or later.
+D:\source\cpp\SppConsole\SppConsole\src\Backend.cpp(90,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\source\cpp\SppConsole\SppConsole\src\Backend.cpp(126,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Engine.cpp
+D:\source\cpp\SppConsole\SppConsole\src\Engine.cpp(322,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\source\cpp\SppConsole\SppConsole\src\Engine.cpp(334,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Score.cpp
+  Utils.cpp
+  Generating Code...
+D:\source\cpp\SppConsole\SppConsole\src\Engine.cpp(48,1): warning C4715: 'Engine::GetSeeds': not all control paths return a value
+D:\source\cpp\SppConsole\SppConsole\src\Engine.cpp(345,1): warning C4172: returning address of local variable or temporary : r_score
+D:\source\cpp\SppConsole\SppConsole\src\Engine.cpp(354,1): warning C4172: returning address of local variable or temporary : r_score
+  SppConsole.vcxproj -> D:\source\cpp\SppConsole\bin\x64\Debug\SppConsole.exe
